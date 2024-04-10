@@ -1,0 +1,51 @@
+.solida
+{
+    border-width: 5px 5px 5px 5px;
+    border-color: blue red gray black;
+    border-style: dotted groove ridge inset;    
+}
+
+.dotted
+{
+    border-style: dotted;
+}
+
+.dashead
+{
+    border-style: dashed;
+}
+
+.groove
+{
+    border-style: groove;
+}
+
+.ridge
+{
+    border-style: ridge;
+}
+
+.inset
+{
+    border-style: inset;
+}
+
+.outset
+{
+    border-style: outset;
+}
+
+.none
+{
+    border-style: none;
+}
+
+.hidden
+{
+    border-style: hidden;
+}
+
+.double
+{
+    border-style: double;
+}
